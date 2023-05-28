@@ -6,7 +6,7 @@ export default function Web() {
   return (
     <>
       <Head>
-        <title>Tes</title>
+        <title>TARGET KSI</title>
       </Head>
       <section className="bg-white dark:bg-gray-900">
         <div className="mx-auto grid max-w-screen-xl px-4 py-8 text-center lg:py-16">
@@ -14,6 +14,7 @@ export default function Web() {
             <h1 className="mb-4 max-w-2xl text-4xl font-extrabold leading-none tracking-tight dark:text-white md:text-5xl xl:text-6xl">
               HALO
             </h1>
+            <input type="file" name="file" id="" />
             <p className="mb-6 max-w-2xl font-light text-gray-500 dark:text-gray-400 md:text-lg lg:mb-8 lg:text-xl">
               Jumpstart your enterprise project with our feature-packed, high-performance Next.js boilerplate!
               Experience rapid UI development, AI-powered code reviews, and an extensive suite of tools for a smooth and
